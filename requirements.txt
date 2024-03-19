@@ -1,0 +1,10 @@
+sounddevice
+wavio
+pandas
+scipy
+openai
+vellum-ai==0.0.31
+python-dotenv
+playsound
+PyObjC
+bullmq==1.8.0
